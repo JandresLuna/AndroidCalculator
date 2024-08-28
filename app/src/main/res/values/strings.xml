@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Formativa 1 - AndresJaimes</string>
+    <string name="logo">The Best Calculator</string>
+    <string name="logo2">It is time to calculate</string>
+    <string name="button">Try Now!</string>
+    <string name="calculate">Calculate</string>
+</resources>
